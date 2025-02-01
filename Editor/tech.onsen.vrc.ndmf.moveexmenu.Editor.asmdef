@@ -1,0 +1,23 @@
+{
+  "name": "tech.onsen.vrc.ndmf.moveexmenu.Editor",
+  "references": [
+    "VRC.SDK3A",
+    "VRC.SDK3A.Editor",
+    "VRC.SDKBase",
+    "VRC.SDKBase.Editor",
+    "nadena.dev.ndmf",
+    "nadena.dev.ndmf.vrchat",
+    "nadena.dev.ndmf.runtime",
+    "tech.onsen.vrc.ndmf.moveexmenu"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "autoReferenced": true,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "defineConstraints": [],
+  "optionalUnityReferences": []
+}
