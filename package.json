@@ -1,8 +1,8 @@
 {
   "name": "tech.onsen.vrc.ndmf.moveexmenu",
-  "displayName": "Move ExpressionMenu Item",
-  "version": "0.0.1-alpha.1",
-  "description": "Describe this Package",
+  "displayName": "(Re)Move ExpressionMenu Items",
+  "version": "0.0.1-alpha.2",
+  "description": "Move or Remove ExpressionMenu items into another items.",
   "gitDependencies": {},
   "vpmDependencies": {
     "com.vrchat.avatars": ">=3.7.0",
@@ -11,8 +11,10 @@
   "author": {
     "name": "tmyt",
     "email": "me@onsen.tech",
-    "url": ""
+    "url": "https://m6n.onsen.tech/@tmyt"
   },
+  "license": "MIT",
   "legacyFolders": {},
-  "legacyFiles": {}
+  "legacyFiles": {},
+  "unity": "2022.3"
 }
